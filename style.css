@@ -1,0 +1,42 @@
+.bg {
+	background-color: #2E3445;
+}
+.height2400 {
+	height: 2400px;
+}
+.height50 {
+	height: 50px;
+}
+.height100 {
+	height: 100px;
+}
+.height300 {
+	height: 300px;
+}
+.height400 {
+	height: 400px;
+}
+.height500 {
+	height: 500px;
+}
+.mt {
+	margin-top: 20px;
+}
+.color {
+	background-color: #222736;
+}
+.tx {
+	color: #D9E6D2;
+}
+
+
+
+
+
+
+
+
+
+
+<span id="myid1"></span>
+href="#myid1" (<a href="#myid1">текст</a>)
