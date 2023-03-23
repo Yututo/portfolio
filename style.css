@@ -1,0 +1,42 @@
+::-webkit-scrollbar {
+	width: 10px;
+}
+::-webkit-scrollbar-thumb {
+	background: black;
+	border-radius: 30px;
+}
+::-webkit-scrollbar-track {
+	background-color: #2E3445;
+}
+.bg {
+	background-color: #2E3445;
+}
+.height3000 {
+	height: 3800px;
+	width: 1938px;
+}
+.height50 {
+	height: 50px;
+}
+.height100 {
+	height: 100px;
+}
+.height300 {
+	height: 300px;
+}
+.height400 {
+	height: 400px;
+}
+.height500 {
+	height: 500px;
+}
+.mt {
+	margin-top: 20px;
+}
+.color {
+	background-color: #222736;
+}
+.tx {
+	color: #D9E6D2;
+}
+
